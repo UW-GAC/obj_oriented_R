@@ -3,7 +3,9 @@ title: "Object-Oriented Programming in R"
 subtitle: "A gentle introduction, by example"
 author: "Stephanie Gogarten"
 date: "11/1/2017"
-output: github_document
+output: 
+    html_document:
+        keep_md: true
 ---
 
 ```{r setup, include=FALSE}
